@@ -36,7 +36,7 @@ const Login = ({ setLogin }) => {
       </div>
 
       <button type="submit" className="btn btn-primary" onClick={ handleLogin}>Submit</button>
-
+<p>username : <code>admin</code> password : <code>1234</code></p>
     </div>
   )
 }
